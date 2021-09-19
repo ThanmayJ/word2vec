@@ -15,5 +15,7 @@ The word university is derived from the Latin universitas magistrorum et scholar
 
 ## Output
 ```python
-predicted_words = ['the', 'university', 'graduate', 'teachers', 'institutions']
+w2v.predict('university') 
+
+  ['the', 'university', 'graduate', 'teachers', 'institutions']
 ```
