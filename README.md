@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims at measuring syntactic and semantic similarities of words by building the Word2Vec Skipgram architecture in NumPy (Python) 
+This project aims at measuring syntactic and semantic similarities of words by building a simple Word2Vec Skipgram architecture in NumPy (Python) 
 
 ## Input text
 
